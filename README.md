@@ -35,5 +35,3 @@ The website includes essential sections like:
 - Dynamic content rendering using JavaScript
 - Clean and minimal design
 - Organized and readable code structure
-
-## 📁 Project Structure
